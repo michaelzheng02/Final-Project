@@ -65,3 +65,6 @@ npm install
 
 # Start the development server
 npm run dev
+
+# After running the above command, open your browser and navigate to:
+http://localhost:(......)
