@@ -1,5 +1,6 @@
 #  GasHub  
-![GasHub Logo]
+![GasHub Logo](https://raw.githubusercontent.com/michaelzheng02/Final-Project/376b86973cc8ff4aec02edd278335242f0c6296d/Untitled%20design%20(7).png?token=AUD27VKM76NX4NRXURABC6LHWZEVA)
+
 
 ## 👥 Team Members  
 
