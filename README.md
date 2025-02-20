@@ -17,17 +17,17 @@ GasHub is a web application that we are currently developing to help drivers **s
 
 ---
 
-## 🚀 Features (In Development)  
+##  Features (In Development)  
 
 ✅ Finding Gas Stations 
 
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 
-### 🎨 **Frontend**  
-| 🛠 Tool  | 📖 Purpose  |  
+### **Frontend**  
+| Tool  |  Purpose  |  
 |---------|------------|  
 | **TypeScript** | Ensuring type safety & improved code quality in JavaScript-based development. |  
 | **Tailwind CSS** | Utility-first CSS framework for styling. |  
@@ -35,7 +35,7 @@ GasHub is a web application that we are currently developing to help drivers **s
 | **Next.js** | React framework for server-side rendering, static site generation, and routing. |  
 
 ### 🖥 **Backend & Database**  
-| 💾 Tool  | ⚙️ Purpose |  
+|  Tool  |  Purpose |  
 |---------|-----------|  
 | **Node.js** | Running JavaScript on the server. |  
 | **Firebase** | Backend services for authentication, hosting, and database management. |  
@@ -43,7 +43,7 @@ GasHub is a web application that we are currently developing to help drivers **s
 | **Google Places API** | Fetching location-based gas station data. |  
 
 ### 🛠 **Additional Tools**  
-| 🏆 Tool | 📝 Purpose |  
+|  Tool |  Purpose |  
 |--------|---------|  
 | **Figma** | UI/UX design, wireframes, and mockups. |  
 | **Google Sheets** | For project management & organizing data. |  
@@ -53,7 +53,7 @@ GasHub is a web application that we are currently developing to help drivers **s
 
 ---
 
-## 📦 Installation (For Development)  
+## Installation (For Development)  
 
 ```sh
 # Clone the repository
@@ -65,6 +65,3 @@ npm install
 
 # Start the development server
 npm run dev
-
-# After running the above command, open your browser and navigate to:
-http://localhost:(......)
